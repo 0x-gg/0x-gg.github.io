@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "53GAYWK538.app.entry.swiftui"
+        ],
+        "components": [
+          {
+            "/": "/entry-swiftui/challenge"
+          },
+          {
+            "/": "/entry-swiftui/challenge/*"
+          }
+        ]
+      }
+    ]
+  }
+}
